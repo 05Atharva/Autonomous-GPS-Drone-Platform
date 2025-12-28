@@ -53,4 +53,6 @@ The drone supports:
 ## 👤 Author / Team
 
 Developed as part of a drone club project.  
-Contributor: **Atharva Kanawade**
+Contributor: **Aditya Shinde**
+             **Atharva Kanawade**
+             **Anushk Nanaware**
