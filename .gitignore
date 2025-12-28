@@ -1,0 +1,66 @@
+# =========================
+# OS / System files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDE / Editor files
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# =========================
+# Python / Scripts
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.venv/
+venv/
+
+# =========================
+# Arduino / Embedded
+# =========================
+*.hex
+*.bin
+*.elf
+*.map
+
+# =========================
+# Flight Controller / UAV
+# =========================
+*.param
+*.params
+*.tlog
+*.binlog
+*.log
+*.dat
+
+# =========================
+# Simulation / GCS exports
+# =========================
+logs/
+output/
+dump/
+exports/
+
+# =========================
+# Media (optional)
+# =========================
+# Uncomment if you don't want to track large media files
+# media/images/
+# media/videos/
+
+# =========================
+# Temporary / Backup
+# =========================
+tmp/
+temp/
+backup/
